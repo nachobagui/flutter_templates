@@ -1,7 +1,7 @@
-# Flutter Templates
-Completely free for everyone.
-Built with Flutter.
+# BAGUI
 
-![Image](assets/hotel/hotel_booking.png)
-![Image](assets/fitness_app/fitness_app.png)
-![Image](assets/design_course/design_course.png)
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
